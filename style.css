@@ -293,3 +293,17 @@ form .btn2{
     margin-top: 20px;
     cursor: pointer;
 }
+.arrow-top{
+    display: none;
+    text-decoration: none;
+    position: fixed;
+    bottom: 2px; 
+    right: 10px;
+    padding: 10px;
+    background: #222;
+    color: #ddd;
+    }
+.arrow-top:hover{
+    color: black;
+    background: cyan;
+}
